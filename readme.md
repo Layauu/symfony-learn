@@ -1,5 +1,7 @@
 # Symfony learn
 
+[![Symfony](https://github.com/Layauu/symfony-learn/actions/workflows/symfony.yml/badge.svg)](https://github.com/Layauu/symfony-learn/actions/workflows/symfony.yml)
+
 Ce projet est un projet d'apprentissage de Symfony 5, il est basé sur le cours de Yoan Dev. Chaine youtube : https://www.youtube.com/@yoandevco
 
 Vous y retrouverez ici les différentes étapes du développement avec les commandes utilisées.
