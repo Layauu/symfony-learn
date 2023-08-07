@@ -29,3 +29,31 @@ symfony check:requirements
 docker-compose up -d
 symfony.exe serve
 ```
+
+## Créer une entité
+
+```bash
+symfony.exe console make:entity
+```
+
+## Créer une migration
+
+```bash
+symfony.exe console make:migration
+```
+
+## Lancer les migrations
+
+```bash
+symfony.exe console doctrine:migrations:migrate
+```
+Ou
+```bash
+symfony.exe console d:m:m
+```
+
+## Lancer des tests
+
+```bash
+php bin/phpunit --testdox
+```
